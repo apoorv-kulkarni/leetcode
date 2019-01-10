@@ -38,7 +38,8 @@ for (int i = 0; i < len; i++) {
     print(nums[i]);
 }
 */
-
+#include <vector>
+using namespace std;
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
